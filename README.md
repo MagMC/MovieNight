@@ -1,4 +1,4 @@
 # MovieNight
 Good movies to watch
 
-Check 
+Check [movies.txt](movies.txt) for movies.
